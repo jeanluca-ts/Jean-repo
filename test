@@ -1,0 +1,5 @@
+migrating a company to aws
+monday.com
+we're going to migrate all ruby web servers from engine yard to aws.
+slow deployment, slow rollback, high costs
+create infrastructure with terraform, create automation with ansible to setup servers. automate everything through semaphoreCI

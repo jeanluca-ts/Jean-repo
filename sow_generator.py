@@ -1,6 +1,6 @@
+import re
 import streamlit as st
 from docx import Document
-import re
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 # from langchain.chains import LLMChain  # Deprecated, using prompt | llm instead
